@@ -1,0 +1,13 @@
+One of the major problems faced by developing countries is the 
+maintenance of the road condition. The sensor- based Pothole Detection 
+System uses ultrasonic Sensors for detecting those potholes more 
+accurately than before and GPS is used for plotting the location of potholes 
+on the map, it will give an alert to the driver about potholes using the 
+buzzer.
+Here, we propose the design of "Pothole detection System" which assists 
+the driver in avoiding pot-holes on the roads, by giving prior warnings. 
+Warnings can be like buzzer if its before to alert the driver. This system 
+uses an ultrasonic sensor to sense the potholes before passing through 
+it. This project aims to produce a Pothole Detection and Alert System. 
+The main components of the project are the Accelerometer sensor, 
+Ultrasonic Sensor, GPS and Arduino Uno.
